@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Jamie Graham | Software Engineer | NCWIT | SWE | FIRST Alumni | PLTW | EASA Scholar | OSU Honors 2020 
+Jamie Graham - Software Engineer - NCWIT - SWE - FIRST Alumni - PLTW - EASA Scholar - OSU Honors 2020 
 
 ### Introduction
 
