@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Jamie Graham - Software Engineer - OSU Honors 2020
+My dream is to use engineering and software to not only inspire new technologies, but to inspire people.
 
 ### Introduction
 
