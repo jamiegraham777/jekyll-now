@@ -6,11 +6,11 @@ permalink: /about/
 
 Affordable Marketing and Software Developer Contractor
 
+My goal is to help the small businesses of the Redding community be found and be known.
+
 ### Introduction
 
 My name is Jamie Graham and I am currently contracting cheap, affordable software development and marketing packages for small-medium sized businesses in the Redding and nearby North California area.
-
-My goal is to help the small businesses of the Redding community be found and be known.
 
 I am selling flexibly priced package contracts in:
 - Social Media Management
