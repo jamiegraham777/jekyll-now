@@ -30,7 +30,7 @@ I have 8 years of Software Development experience including:
 - Software Engineer at Autodesk Inc. (2 years) for leading production of an open-source Robotics simulator which maps Java and C++ to Inventor CAD designs
 - Software Engineering for FIRST Robotics Compeition (3 years) programming complex robotics/sensory systems and logic
 - Software Engineering for Nanoracks Nanolab (2 years programming, 1 year mentoring) programming logic scripts for micro-gravity experiment tested on the International Space Station. 
-- Self-taught programmer, Computer Science degree at Oregon State University
+- Self-taught programmer, Computer Science major at Oregon State University
 
 I am affiliated with Kidco Production (Anti-bully program based in Tacoma, WA), Lemelson-MIT Inventeam (Invented diaster relief shelter for developing nations, funded by Massachusetts Institute of Technology), and FIRST Robotics (K-12 Robotics education/competition).
 
